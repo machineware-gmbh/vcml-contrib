@@ -1,5 +1,3 @@
-
-
 This repository contains a curated list of 3rd party contributions to VCML not part of the [MachineWare GmbH](https://www.machineware.de/) owned and maintained set of models and components.
 
 ## VCML
