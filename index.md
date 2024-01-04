@@ -12,10 +12,11 @@ Contribution to VCML can be submitted as patchfiles via [e-mail](https://www.mac
 
 ## Virtual Platforms
 
-| Virtual Platform                                   | Description                                                                                                                            | License    |
-|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------|
-| [AVP64](https://github.com/aut0/avp64)             | An ARM Multi-Core Virtual Platform based on QEMU and VCML. AVP64 can execute the Xen hypervisor, Linux and many bare-metal benchmarks. | MIT        |
-| [or1kmvp](https://github.com/janweinstock/or1kmvp) | or1kmvp is an OpenRISC1000 Multi-Core Virtual Platform. It is fast enough to run Linux with an interactive command line.               | Apache-2.0 |
+| Virtual Platform                                          | Description                                                                                                                            | License    |
+|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------|
+| [AVP64](https://github.com/aut0/avp64)                    | An ARM Multi-Core Virtual Platform based on QEMU and VCML. AVP64 can execute the Xen hypervisor, Linux and many bare-metal benchmarks. | MIT        |
+| [spike-vp](https://github.com/TommyWu-fdgkhdkgh/spike-vp) | spike-vp is a VP built around the Spike RISC-V simulator. It is fast enough to run Linux with an interactive command line.             | Apache-2.0 |
+| [or1kmvp](https://github.com/janweinstock/or1kmvp)        | or1kmvp is an OpenRISC1000 Multi-Core Virtual Platform. It is fast enough to run Linux with an interactive command line.               | Apache-2.0 |
 
 ## Models
 
